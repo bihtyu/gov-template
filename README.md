@@ -1,4 +1,4 @@
-# vue-template
+# gov-template
 
 ## Project setup
 ```
